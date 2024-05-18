@@ -42,20 +42,33 @@ Steps to run project:
     
     ![image](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/301cf07c-bc11-4504-ad21-e1b0bfcec8da)
 
+    - In basic.py file after trained the model if we put the training and testing images of same people than it will generate Result True and it will also generate true percentage.
+
+      ![True Result](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/2dc18cf3-1bf7-4780-9d5e-01dadad82fe7)
+      
+
+    - Or else if we will put the training and testing images of two different people than it will generate Result False and it will also generate False percentage.
+   
+      ![False result](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/065a7fc4-5089-4fda-bd01-49ae68728832)
+      
+
+
 13. Follow the same process to run the AttendenceProject.py.
     
     ![image](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/1b606ead-9f72-4e8c-b8aa-ce609bd60178)
     
-16. Attendence will store in Attendence.csv file with person's name and timing.
+16. Attendence will be taken by using webcam of the particular device.
     
     ![image](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/a7c04904-820d-4cd3-8bca-6ba4f886c2df)
     
 
     ![Screenshot 2024-05-03 143958](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/85b70417-e285-4a6b-b077-2bbea4f60705)
 
-
+17. After takin attendence it will store in Attendence.csv file with person's name and timing.
+    
     ![image](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/0a5115fd-076f-498d-bf4c-ac9b58e53b1b)
 
-    
+    ![image](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/456020b9-1878-4426-a31c-0b8e32bd4d27) 
+
 
     
