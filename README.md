@@ -49,6 +49,9 @@ Steps to run project:
 16. Attendence will store in Attendence.csv file with person's name and timing.
     
     ![image](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/a7c04904-820d-4cd3-8bca-6ba4f886c2df)
+    
+
+    ![Screenshot 2024-05-03 143958](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/85b70417-e285-4a6b-b077-2bbea4f60705)
 
 
     ![image](https://github.com/Mygithubrepokanchhi/Face_Recognition/assets/170111682/0a5115fd-076f-498d-bf4c-ac9b58e53b1b)
